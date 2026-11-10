@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"Create Merasmus"
+	{
+		"#format"	"{1:t}"
+		"en"		"Set {1} as the Merasmus."
+	}
+
+	"Hellfire"
+	{
+		"en"	"Hellfire"
+	}
+	
+	"Bombinomicon"
+	{
+		"en"	"Bombinomicon"
+	}
+	
+	"Active"
+	{
+		"en"	"Active"
+	}
+	
+	"Ready!"
+	{
+		"en"	"Ready!"
+	}
+}

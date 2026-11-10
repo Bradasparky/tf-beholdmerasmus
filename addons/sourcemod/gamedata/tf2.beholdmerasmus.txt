@@ -1,0 +1,23 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			"CBaseGrenade::m_flDetonateTime"
+			{
+				"windows"	"48"
+				"windows64"	"48"
+				"linux"		"48"
+				"linux64"	"48"
+			}
+			"CTFWeaponBaseGrenadeProj::InitGrenade"
+			{
+				"windows"	"244"
+				"windows64"	"244"
+				"linux"		"246"
+				"linux64"	"246"
+			}
+		}
+	}
+}
